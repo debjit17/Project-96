@@ -1,0 +1,39 @@
+#logout{
+    margin-left: 1100px;
+    font-size: large;
+}
+
+body{
+    background-image: linear-gradient(to right top, #33a0f1, #37a4e4);
+}
+
+img{
+    width: 80px;
+    margin-top: 30px;
+    border-radius: 40px;
+}
+
+#room_name_input
+{
+    width: 700px;
+}
+
+.room_name
+{
+    cursor: pointer;
+	font-size: 20px;
+}
+
+.header{
+    color: white;
+    font-family: 'Yeon Sung';
+    font-size: 45px;
+    letter-spacing: 10px;
+}
+
+#output{
+    padding: 10px; 
+    width:80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
